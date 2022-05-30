@@ -1,0 +1,18 @@
+1. git init  //git 파일 생성
+2. git remote add origin +(repo code)  //파일과 repo 연결하기
+3. git remote -v  //git 연결됐는지 확인하기
+4. git config --global user.email "이메일주소"
+
+
+
+
+6. git branch  //branch 확인하기 main이 떴으면 된거임(아니면 git bash 줄 옆에 파란색으로 브랜치 뜸)
+7. git config --global user.email "dbrudskql823@naver.com"
+8. git add .  //해당 파일에 있는 data들 다 git 에 추가
+9. git commit -m "(커밋메시지)"  //커밋
+10. git switch main  //git branch main으로 변경하기 (git bash의 default는 master이지만 github는 main이라서)
+	--혹시 main이 없다고 경고창 뜨면 git branch main 입력하고 다시 5번 실행
+5. git pull origin main --allow-unrelated-histories  //repo에 있는거 파일에 몽땅 가져오기(초기에만 --)
+11. git push // github에 올림, 초기에 안되면 git push origin main 초기에는 github에 sign in 하라고 뜸 로그인하면 됨
+
+mac shh: git remote set-url origin git@github.com:YouKyoung-Na/HTML.git
