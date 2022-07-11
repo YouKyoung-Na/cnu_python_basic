@@ -5,6 +5,8 @@ test.tct
 .txt
 .pdf
 
+##폴더 무시
+py_file/
 
 
 
