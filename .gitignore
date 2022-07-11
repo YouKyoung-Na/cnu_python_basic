@@ -1,3 +1,14 @@
+##파일무시
+test.tct
+
+##확장자 무시
+.txt
+.pdf
+
+
+
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
