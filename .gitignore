@@ -7,8 +7,7 @@ test.tct
 
 ##폴더 무시
 py_file/
-
-
+pdf_file/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
